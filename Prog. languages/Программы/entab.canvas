@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"46aedfe5c325b2d5","type":"text","text":"1. Скопировать строку с помощью функции getlin(), которая возвращает кол-во символов в строке","x":-200,"y":-280,"width":380,"height":100},
+		{"id":"3fe086894e780b2c","type":"text","text":"2. Переписать изменённую строку в новый массив с помощью [[spaces_to_tab_and_spaces]]","x":-200,"y":-140,"width":380,"height":100},
+		{"id":"f17903e39eb863e0","type":"text","text":"3. Вывести строку на экран","x":-200,"y":0,"width":380,"height":100}
+	],
+	"edges":[
+		{"id":"29c7bf9e1889b107","fromNode":"46aedfe5c325b2d5","fromSide":"bottom","toNode":"3fe086894e780b2c","toSide":"top"},
+		{"id":"eb4462289a5e696b","fromNode":"3fe086894e780b2c","fromSide":"bottom","toNode":"f17903e39eb863e0","toSide":"top"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"05db04f9436edb8e","x":-140,"y":-400,"width":250,"height":60,"type":"text","text":"Inhertance hierarchy"},
+		{"id":"a00ee2149d84e913","x":-88,"y":-185,"width":128,"height":60,"type":"text","text":"Object\n"},
+		{"id":"8b5b9db70e27fbaa","x":-149,"y":-60,"width":250,"height":60,"type":"text","text":"Actor"},
+		{"id":"bbcd6f32f6a03f5c","x":-281,"y":80,"width":250,"height":60,"type":"text","text":"Controller"},
+		{"id":"8efb9664c9578ea8","x":80,"y":80,"width":159,"height":60,"type":"text","text":"Pawn"},
+		{"id":"cc414fb6c8318d9f","x":-149,"y":300,"width":160,"height":60,"type":"text","text":"AI controller"},
+		{"id":"d1192feaef3ac6dc","x":-370,"y":220,"width":179,"height":60,"type":"text","text":"Player controller"},
+		{"id":"c2a977fd0e77ae8c","x":114,"y":220,"width":250,"height":60,"type":"text","text":"Character"}
+	],
+	"edges":[
+		{"id":"7112399467206b54","fromNode":"a00ee2149d84e913","fromSide":"bottom","toNode":"8b5b9db70e27fbaa","toSide":"top"},
+		{"id":"b31f2e70e45bd24e","fromNode":"8b5b9db70e27fbaa","fromSide":"bottom","toNode":"bbcd6f32f6a03f5c","toSide":"top"},
+		{"id":"41daeba6ad08a00b","fromNode":"bbcd6f32f6a03f5c","fromSide":"bottom","toNode":"d1192feaef3ac6dc","toSide":"top"},
+		{"id":"94332c9cdd19a248","fromNode":"bbcd6f32f6a03f5c","fromSide":"bottom","toNode":"cc414fb6c8318d9f","toSide":"top"},
+		{"id":"8bdd86a06a932406","fromNode":"8b5b9db70e27fbaa","fromSide":"bottom","toNode":"8efb9664c9578ea8","toSide":"top"},
+		{"id":"a5f8008ba0e9c291","fromNode":"8efb9664c9578ea8","fromSide":"bottom","toNode":"c2a977fd0e77ae8c","toSide":"top"},
+		{"id":"d255f7f68ecd9fde","fromNode":"d1192feaef3ac6dc","fromSide":"right","toNode":"8efb9664c9578ea8","toSide":"left"},
+		{"id":"308d7b9b4dccbc08","fromNode":"d1192feaef3ac6dc","fromSide":"right","toNode":"c2a977fd0e77ae8c","toSide":"left"}
+	]
+}

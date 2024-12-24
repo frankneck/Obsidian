@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "444f4f779936fdaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e389dccab6b738ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ac0a49a275dbd8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4f26de53f883232",
+    "type": "split",
+    "children": [
+      {
+        "id": "b80a69f79ced66bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f532b045b561d0a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4533367eb18d74db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8497ee5e324bce4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "10536540541e6b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed0bb7887b961b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9882d1df62ea2306",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "4e32e552c26cae62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "a21bed2222fad124",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3232907789c6f34f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ac0a49a275dbd8d",
+  "lastOpenFiles": [
+    "2024-12-24.md",
+    "Untitled.canvas",
+    "GameDev/Игра для VR с нуля на Unity.md",
+    "Справка/UNIX.md",
+    "Справка/Аппаратная платформа.md",
+    "Справка/стек.md",
+    "Справка/Inhertance hierarchy.md",
+    "Работа с компьютером (Windows)/Программы.md",
+    "Работа с компьютером (Windows)/Терминал Windows/Комманды.md",
+    "Работа с компьютером (Windows)/Очистка компьютера.md",
+    "3D Modelling/blender/Работа со скелетом.md",
+    "G.md",
+    "Game engines",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 3/3. Программы верхнего уровня.md",
+    "3D Modelling",
+    "Prog. languages",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 3/2. Создание своего конструктора.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 3/1. Классы, структуры и пространства имен.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/15. Возвращение значения и оператор return.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/14. Параметры методов.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/9. Условные выражения.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/1. Структура программы.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/8. Преобразование базовых типов.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/7. Операции присваивания.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/6. Арифметические операции.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/5. Консольный ввод. Вывод.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/3. Литералы.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/20. Конструкция switch.md",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 2/4. Типы данных.md",
+    "GameDev",
+    "Prog. languages/C#/Курс METANIT/Ответы на вопросы/Глава 3",
+    "Prog. languages/C#/Курс METANIT/Ответы на вопросы/Глава 2",
+    "Prog. languages/C#/Курс METANIT/Ответы на вопросы/Глава 1",
+    "Prog. languages/C#/Курс METANIT/Ответы на вопросы",
+    "Prog. languages/C#/Курс METANIT",
+    "Prog. languages/C#/Курс METANIT/Вопросы к главам/Глава 1",
+    "Prog. languages/C#/Курс METANIT/MInd maps/Compilation of code.canvas",
+    "Prog. languages/C#/Курс METANIT/MInd maps/Явное преобразование типов.canvas",
+    "Game engines/Unreal Engine 5/inhertance h.canvas",
+    "Game engines/Unity/LayerMask.canvas",
+    "Prog. languages/Программы/entab.canvas",
+    "C.canvas"
+  ]
+}

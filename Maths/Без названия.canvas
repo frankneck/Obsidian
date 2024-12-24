@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1010896263070a53","type":"text","text":"Обратн. элемент","x":-860,"y":-30,"width":204,"height":60},
+		{"id":"d3e76db60b3b6d0d","type":"text","text":"Коммутативность\n","x":-758,"y":77,"width":250,"height":60},
+		{"id":"f4b2a1ae060b366f","type":"text","text":"Операции","x":-757,"y":-373,"width":250,"height":60},
+		{"id":"f0e66473ea0e8517","type":"text","text":"\"+\"","x":-776,"y":-243,"width":100,"height":60},
+		{"id":"475d677641f38562","type":"text","text":"\"*\"","x":-594,"y":-243,"width":86,"height":60},
+		{"id":"4886564bcae44a7b","type":"text","text":"Поле","x":-508,"y":-590,"width":250,"height":60},
+		{"id":"25e549cde4ca5921","type":"text","text":"Свойства","x":-508,"y":-90,"width":250,"height":60},
+		{"id":"d51b070e803820f8","type":"text","text":"Нейтр. элемент","x":-483,"y":77,"width":201,"height":60},
+		{"id":"7aceb75c5d6ab710","type":"text","text":"Дистрибутивность","x":-258,"y":77,"width":218,"height":60}
+	],
+	"edges":[
+		{"id":"8febf3794fb8fa89","fromNode":"4886564bcae44a7b","fromSide":"bottom","toNode":"25e549cde4ca5921","toSide":"top"},
+		{"id":"5dd3b6fa88f230da","fromNode":"25e549cde4ca5921","fromSide":"bottom","toNode":"d3e76db60b3b6d0d","toSide":"top"},
+		{"id":"b2a72114c1a0818f","fromNode":"25e549cde4ca5921","fromSide":"bottom","toNode":"d51b070e803820f8","toSide":"top"},
+		{"id":"0de2591e325ea675","fromNode":"25e549cde4ca5921","fromSide":"bottom","toNode":"7aceb75c5d6ab710","toSide":"top"},
+		{"id":"493c9dfb47d28b6c","fromNode":"25e549cde4ca5921","fromSide":"bottom","toNode":"1010896263070a53","toSide":"top"},
+		{"id":"231566b5bee8cd1d","fromNode":"4886564bcae44a7b","fromSide":"bottom","toNode":"f4b2a1ae060b366f","toSide":"top"},
+		{"id":"18c0c31421652019","fromNode":"f4b2a1ae060b366f","fromSide":"bottom","toNode":"f0e66473ea0e8517","toSide":"top"},
+		{"id":"02db137b48d9c2cf","fromNode":"f4b2a1ae060b366f","fromSide":"bottom","toNode":"475d677641f38562","toSide":"top"}
+	]
+}

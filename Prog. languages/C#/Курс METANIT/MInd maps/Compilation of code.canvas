@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b8b9cc6d69f31c08","type":"text","text":"С# Code","x":-140,"y":-500,"width":250,"height":29},
+		{"id":"4939df95abb68cc9","x":-140,"y":-400,"width":250,"height":60,"type":"text","text":"Compilation"},
+		{"id":"a8528951ffe44449","x":-140,"y":-280,"width":250,"height":50,"type":"text","text":"CIL"},
+		{"id":"cf89fd39b0436736","type":"text","text":"JIT (Just-in-time)","x":-106,"y":-180,"width":182,"height":29},
+		{"id":"795cf1d58a683f19","x":-105,"y":-100,"width":180,"height":29,"type":"text","text":"Machine code"}
+	],
+	"edges":[
+		{"id":"66f371b3ba59b65a","fromNode":"a8528951ffe44449","fromSide":"bottom","toNode":"cf89fd39b0436736","toSide":"top"},
+		{"id":"f1464f7688532c1f","fromNode":"cf89fd39b0436736","fromSide":"bottom","toNode":"795cf1d58a683f19","toSide":"top"},
+		{"id":"2612c64ae066cdc2","fromNode":"b8b9cc6d69f31c08","fromSide":"bottom","toNode":"4939df95abb68cc9","toSide":"top"},
+		{"id":"05fe1c283602f577","fromNode":"4939df95abb68cc9","fromSide":"bottom","toNode":"a8528951ffe44449","toSide":"top"}
+	]
+}

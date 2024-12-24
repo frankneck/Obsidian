@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d6c4c2490cd0cada","x":-140,"y":-420,"width":250,"height":60,"type":"text","text":"тип LayerMask"},
+		{"id":"fd3ba0dbb388bfcc","x":-138,"y":-289,"width":250,"height":115,"type":"text","text":"Определение, какие слои будут участвовать в операциях\n"},
+		{"id":"884889cb34ab3e3e","x":-320,"y":-80,"width":250,"height":60,"type":"text","text":"Обнаружение столкновения"},
+		{"id":"93666f84d4e5d4bb","x":40,"y":-80,"width":250,"height":60,"type":"text","text":"Проверка на принадлежность слоя"}
+	],
+	"edges":[
+		{"id":"b9a2791daeb10a3e","fromNode":"d6c4c2490cd0cada","fromSide":"bottom","toNode":"fd3ba0dbb388bfcc","toSide":"top"},
+		{"id":"b9d8a56be4fe1d3a","fromNode":"fd3ba0dbb388bfcc","fromSide":"bottom","toNode":"884889cb34ab3e3e","toSide":"top"},
+		{"id":"954e30704fe7ee47","fromNode":"fd3ba0dbb388bfcc","fromSide":"bottom","toNode":"93666f84d4e5d4bb","toSide":"top"}
+	]
+}
